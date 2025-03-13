@@ -6,3 +6,6 @@ ll_env/
 __pycache__/
 db.sqlite3
 *.log
+
+# Ignorar arquivo spec(Especificaçoes e plano de desenvolvimento)
+spec
