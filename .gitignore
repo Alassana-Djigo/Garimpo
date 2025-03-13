@@ -9,3 +9,6 @@ db.sqlite3
 
 # Ignorar arquivo spec(Especificaçoes e plano de desenvolvimento)
 spec
+
+# Ignorar arquivo de configuraçao
+settings.py
